@@ -1,0 +1,23 @@
+#jokeButton {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+#jokeContainer {
+    border: 1px solid #ddd; /* Gray border */
+    border-radius: 4px;  /* Rounded border */
+    padding: 10px; /* Some padding */
+    width: 150px; /* Set a width */
+    height: auto; /* Set a height */
+    margin: 10px; /* Add some margin */
+    font-size: 14px; /* Set font-size */
+    line-height: 1.6; /* Set line-height */
+}
